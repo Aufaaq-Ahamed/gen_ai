@@ -1,0 +1,312 @@
+=== Extracted Company Information ===
+
+
+=== Extracted Information from https://www.boeing.com ===
+
+Here are the answers to your questions based solely on the provided text:
+
+**What is the company's mission statement or core values?**
+
+*   The text states Boeing is committed to fostering a culture based on their core values of safety, quality, and integrity.
+
+**What products or services does the company offer?**
+
+*   The company develops, manufactures, and services commercial airplanes, defense products, and space systems.
+*   Boeing Global Services delivers service solutions for commercial, defense and space customers.
+*   Boeing Commercial Airplanes offers airplanes and services that deliver superior design, efficiency and value.
+
+**When was the company founded, and who were the founders?**
+
+*   The text mentions that Boeing is honoring its legacy and mentions 100 years of Aviation Week. However, it does not directly state when the company was founded or who the founders were.
+
+**Where is the company's headquarters located?**
+
+*   Corporate offices are located near Washington, D.C.
+*   Boeing Commercial Airplanes is headquartered in Seattle, Washington
+
+**Who are the key executives or leadership team members?**
+
+The following people are listed as key executives:
+
+*   Kelly Ortberg (President and Chief Executive Officer)
+*   Brian West (Chief Financial Officer)
+*   Stephanie Pope (Executive Vice President, Finance)
+*   Uma Amuluru (Executive Vice President)
+*   Dana Deasy (President and Chief Executive Officer, Boeing Commercial Airplanes)
+*   Brett C. Gerry (Chief Human Resources Officer)
+*   Darrin A. Hostetler (Executive Vice President, Human Resources)
+*   Howard McKenzie (Chief Information Digital Officer,Senior Vice President,Information Technology & Data Analytics)
+*   Brian Moran (Chief Legal Officer)
+*   Dr. Brendan Nelson (Executive Vice President, Global ComplianceChief Compliance Officer)
+*   Stephen (Steve) Parker (Vice President, Global Compliance)
+*   Chris Raymond (Chief Engineer and Executive Vice President Engineering, Test & Technology; President and Chief Executive Officer, Boeing Global Services)
+*   Don Ruhmann (Chief Sustainability Officer)
+*   Ann M. Schmidt (President, Boeing GlobalSenior Vice President)
+*   Jeff Shockey (Chief Operating Officer and Interim President and CEOBoeing Defense, Space & SecurityExecutive Vice President)
+
+**Has the company received any notable awards or recognitions?**
+
+*   The text does not directly mention any specific awards or recognitions received by the company.
+
+
+=== Extracted Information from https://www.goldmansachs.com ===
+
+Based on the provided text:
+
+*   **What is the company's mission statement or core values?**
+    *   "We aspire to be the world’s most exceptional financial institution, united by our shared values of partnership, client service, integrity, and excellence."
+
+*   **What products or services does the company offer?**
+    *   The text refers to "businesses," "products," and "services" that they are diversifying. It also mentions IPOs, equity compensation, and financial services for corporations, financial institutions, governments, and high net worth individuals.
+
+*   **When was the company founded, and who were the founders?**
+    *   The text doesn't state when the company was founded or who the founders were. However, it does state that "The Goldman Sachs Group, Inc. began trading on the New York Stock Exchange on May 4, 1999."
+
+*   **Where is the company's headquarters located?**
+    *   The text lists two locations:
+        *   200 West Street, 29th Floor New York, NY 10282, USA
+        *   100 Burma Road, Jersey City, NJ 07305, USA
+
+*   **Who are the key executives or leadership team members?**
+    *   The text mentions "David Solomon, Chairman and Chief Executive Officer and a member of the Board of Directors of The Goldman Sachs Group, Inc."
+
+*   **Has the company received any notable awards or recognitions?**
+    *   The text does not mention any specific awards or recognitions.
+
+
+
+=== Extracted Information from https://corporate.exxonmobil.com ===
+
+Based on the provided text:
+
+*   **What is the company's mission statement or core values?**
+    *   **Core Values:** Integrity, Care, Courage, Excellence, Resilience
+*   **What products or services does the company offer?**
+    *   Energy
+    *   Chemicals
+    *   Lubricants
+    *   Lower-emissions technologies
+    *   Carbon capture and storage, hydrogen and biofuels.
+    *   Lower-emission fuels and innovative products critical to modern society.
+    *   Oil and natural gas
+*   **When was the company founded, and who were the founders?**
+    *   The text does not provide the founding date or founders.
+*   **Where is the company's headquarters located?**
+    *   The text does not provide the location of the company's headquarters.
+*   **Who are the key executives or leadership team members?**
+    *   Erik Oswald
+*   **Has the company received any notable awards or recognitions?**
+    *   The text does not mention any specific awards or recognitions.
+
+
+=== Extracted Information from https://www.hsbc.com ===
+
+Here are the answers to your questions, based solely on the provided text:
+
+*   **What is the company's mission statement or core values?**
+    *   The company's purpose is "Opening up a world of opportunity."
+    *   The company's values are:
+        *   We value difference
+        *   We succeed together
+        *   We take responsibility
+        *   We get it done
+*   **What products or services does the company offer?**
+    *   Personal banking
+    *   International Wealth and Premier Banking
+    *   Corporate and Institutional Banking
+*   **When was the company founded, and who were the founders?**
+    *   Founded in 1865. The text does not state the founder's name.
+*   **Where is the company's headquarters located?**
+    *   The text mentions that in March 1865, HSBC opened its doors for business in Hong Kong. However it does not specifically state where the current headquarters are located.
+*   **Who are the key executives or leadership team members?**
+    *   **Board of Directors:**
+        *   Sir Mark Tucker (Group Chairman)
+        *   Georges Elhedery (Group Chief Executive)
+        *   Pam Kaur (Group Chief Financial Officer)
+        *   Geraldine Buckingham (Independent non-executive Director)
+        *   Rachel Duan (Independent non-executive Director)
+        *   Dame Carolyn Fairbairn (Independent non-executive Director)
+        *   James (Jamie) Forese (Independent non-executive Director)
+        *   Ann Godbehere (Senior independent non-executive Director)
+        *   Steven Guggenheimer (Independent non-executive Director)
+        *   José Antonio Meade Kuribreña (Independent non-executive Director)
+        *   Kalpana Morparia (Independent non-executive Director)
+        *   Eileen Murray (Independent non-executive Director)
+        *   Brendan Nelson (Independent non-executive Director)
+        *   Swee Lian Teo (Independent non-executive Director)
+        *   Aileen Taylor (Group Chief People & Governance Officer)
+    *   **Senior Management:**
+        *   Georges Elhedery (Group Chief Executive)
+        *   Pam Kaur (Group Chief Financial Officer)
+        *   Aileen Taylor (Group Chief People & Governance Officer)
+        *   Richard Blackburn (Interim Group Chief Risk and Compliance Officer)
+        *   Jonathan Calvert-Davies (Group Head of Internal Audit)
+        *   Bob Hoyt (Group Chief Legal Officer)
+        *   David Liao (Co-CEO of Asia and Middle East)
+        *   Barry O’Byrne (CEO of International Wealth and Premier Banking)
+        *   Stuart Riley (Group Chief Information Officer)
+        *   Michael Roberts (CEO of HSBC Bank plc and CEO of Corporate and Institutional Banking)
+        *   Surendra Rosha (Co-CEO of Asia and Middle East)
+        *   Ian Stuart (CEO of HSBC UK Bank plc)
+        *   Suzy White (Group Chief Operating Officer)
+
+*   **Has the company received any notable awards or recognitions?**
+    *   The provided text does not mention any specific awards or recognitions.
+
+
+=== Extracted Information from https://www.volkswagenag.com ===
+
+Based on the provided text:
+
+*   **What is the company's mission statement or core values?**
+    *   The seven Group principles, Volkswagen Group Essentials, form the foundation of our values and are an expression of our responsibility towards the world and society. With these principles, we strive for a sustainable future and combine first-class mobility with innovative technologies.
+*   **What products or services does the company offer?**
+    *   The Volkswagen Group is a leading manufacturer of automobiles and commercial vehicles. It also offers financial services (dealer and customer financing, leasing, banking and insurance activities, and fleet management) and mobility solutions.
+*   **When was the company founded, and who were the founders?**
+    *   Volkswagen was founded in 1937. The text does not name the founders.
+*   **Where is the company's headquarters located?**
+    *   Wolfsburg, Germany
+*   **Who are the key executives or leadership team members?**
+    *   **Board of Management of Volkswagen AG:**
+        *   Dr. Oliver Blume, Chairman of the Board of Management of Volkswagen AG and Dr. Ing. h.c. F. Porsche AG
+        *   Dr. Arno Antlitz, Finance and Operations
+        *   Ralf Brandstätter, Member of the board of Volkswagen AG for China
+        *   Dr. Gernot Döllner, Chairman of the Board of Management at AUDI AG
+        *   Dr. Manfred Döss, Integrity and Legal Affairs
+        *   Gunnar Kilian, Member of the Board of Management of Volkswagen AG, Human Resources and Trucks
+        *   Thomas Schäfer, CEO of the Volkswagen Passenger Cars Brand, Member of the Volkswagen AG Board of Management in charge of the Brand Group Core
+        *   Thomas Schmall-von Westerholt, Technology
+        *   Hauke Stars, IT
+    *   **Supervisory Board:**
+        *   Hans Dieter Pötsch, Chairman
+        *   Dr. Hessa Sultan Al Jaber, Former Minister of Information and Communications Technology, Qatar
+        *   Mansoor Bin Ebrahim Al-Mahmoud, Minister of Public Health, State of Qatar
+        *   Rita Beck, Deputy Chairwoman of the Works Council AUDI Ingolstadt
+        *   Christiane Benner, Chairwoman of the Metalworkers' Union IG Metall
+        *   Harald Buck, Chairman of the General Works Council and Group Works Council of Dr. Ing. h.c. F. Porsche AG
+        *   Daniela Cavallo, Chairwoman of the General and Group Works Councils of Volkswagen AG
+        *   Matías Carnero Sojo, Chairman of the General Works Council of SEAT
+        *   Julia Willie Hamburg, Ministry of Education of Lower Saxony
+        *   Marianne Heiß, Member of the Supervisory Board
+        *   Dr. Arno Homburg, Chairman of the Board of Management of Volkswagen Management Association (VMA)
+        *   Dr. Günther Horvath, Managing Director and at the same time self-employed Lawyer of Dr. Günther J. Horvath Rechtsanwalt GmbH
+        *   Daniela Nowak, Chairwoman of the Works Council of Volkswagen AG Braunschweig
+        *   Dr. jur. Hans Michel Piëch, Lawyer
+        *   Dr. jur. Ferdinand Oliver Porsche, Member of the Board of Management of Familie Porsche AG Beteiligungsgesellschaft
+        *   Dr. rer. comm. Wolfgang Porsche, Chairman of the Supervisory Board of Porsche Automobil Holding SE and Chairman of the Supervisory Board of Dr. Ing. h.c. F. Porsche AG
+        *   Gerardo Scarpino, Executive Director of the Group Works Council
+        *   Karina Schnur, Chairwoman of the General and Group Works Councils of MAN Truck & Bus SE
+        *   Conny Schönhardt, Head of the Mobility and Vehicle Construction Unit at the IG Metall Executive Board
+        *   Stephan Weil, Minister-President of the Federal State of Lower Saxony
+*   **Has the company received any notable awards or recognitions?**
+
+    *   The provided text does not mention any specific awards or recognitions received by the Volkswagen Group.
+
+
+=== Extracted Information from https://www.unilever.com ===
+
+Okay, here are the answers to your questions based solely on the provided text:
+
+*   **What is the company's mission statement or core values?**
+
+    *   The company's purpose is: "Brighten everyday life for all."
+    *   "We are known for our great brands and our belief that doing business the right way drives superior performance."
+
+*   **What products or services does the company offer?**
+
+    *   The company offers a wide range of consumer goods. This includes brands in:
+        *   Beauty & Wellbeing
+        *   Personal Care
+        *   Home Care
+        *   Foods
+        *   Ice Cream
+    *   Specific brands mentioned include: Axe, Ben & Jerry's, CLEAR, Cif, Closeup, Comfort, Cornetto, Dermalogica, Domestos, Dove, Dove Men+Care, Hellmann's, Horlicks, Knorr, LUX, Lifebuoy, Liquid I.V., Magnum, Nutrafol, OMO, POND’S SKIN INSTITUTE, Paula's Choice, Pepsodent, Radiant, Sunsilk, Vaseline, Wall's, Colman's, Lipton, Persil, Pears Soap, PG Tips, Marmite,
+
+*   **When was the company founded, and who were the founders?**
+
+    *   The text says that Unilever was founded on a sense of purpose.
+    *   Mentions annual reports going back to 1929, but says the archive covers history from 1891 to the present day.
+    *   The Lever-half of the Unilever name has its roots with one of the founding fathers, William Hesketh Lever.
+    *   The timeline shows key dates and landmarks from 1871.
+
+*   **Where is the company's headquarters located?**
+
+    *   The Unilever Art, Archives and Records Management team is located in Port Sunlight, the historic home of Unilever in the UK.
+    *   It offers: "Get in touch with Unilever PLC and specialist teams in our headquarters, or find contacts around the world."
+
+*   **Who are the key executives or leadership team members?**
+
+    *   **Unilever Leadership Executive (ULE):**
+        *   Fernando Fernandez (Chief Executive Officer)
+        *   Esi Eggleston Bracey (Chief Growth and Marketing Officer)
+        *   Eduardo Campanella (Business Group President, Home Care)
+        *   Reginaldo Ecclissato (President, 1 Unilever Markets)
+        *   Fabian Garcia (Business Group President, Personal Care)
+        *   Rohit Jawa (President, CEO & Managing Director, Hindustan Unilever Limited)
+        *   Priya Nair (Business Group President, Beauty & Wellbeing)
+        *   Mairéad Nayager (Chief People Officer)
+        *   Heiko Schipper (Business Group President, Foods)
+        *   Richard Slater (Chief Research & Development Officer)
+        *   Peter ter Kulve (Business Group President, Ice Cream)
+        *   Willem Uijen (Chief Supply Chain and Operations Officer)
+        *   Maria Varsellona (Chief Legal Officer and Group Secretary)
+        *   Srinivas Phatak (Acting Chief Financial Officer)
+
+    *   **Unilever Board:**
+        *   Ian Meakins (Chair and Non-Executive Director)
+        *   Andrea Jung (Vice Chair and Senior Independent Director)
+        *   Fernando Fernandez (Chief Executive Officer)
+        *   Adrian Hennah (Non-Executive Director)
+        *   Susan Kilsby (Non-Executive Director)
+        *   Ruby Lu (Non-Executive Director)
+        *   Judith McKenna (Non-Executive Director)
+        *   Nelson Peltz (Non-Executive Director)
+        *   Benoît Potier (Non-Executive Director)
+        *   Zoe Yujnovich (Non-Executive Director)
+
+*   **Has the company received any notable awards or recognitions?**
+
+    *   Named as a sustainability leader by GlobeScan and was ranked number two in the 2024 survey.
+    *   Held its position in the exclusive ‘Masters’ category for the sixth year running for the Gartner Supply Chain Top 25.
+    *   Recognized across all three categories (media, creativity, and effectiveness) of the WARC rankings in 2024.
+    *   Collections have been recognized as being of international significance through the award of ‘Designated Status’ by the Arts Council England for both the Unilever and United Africa Company collections.
+
+
+
+=== Extracted Information from https://www.mcdonalds.com ===
+
+Based on the extracted text:
+
+*   **What is the company's mission statement or core values?**
+    The text mentions "Values in Action" and states that they "put people, processes and practices into place to make quality food, more responsible sourcing choices, a stronger community and a better planet." It also refers to "Commitment to Quality" in regards to food.
+
+*   **What products or services does the company offer?**
+    The company offers a variety of food and beverages. The menu includes items from the categories: Featured Favorites, Breakfast, Burgers, Chicken & Fish Sandwiches, McNuggets®, Fries & Sides, Happy Meal®, McCafé® Coffees, Sweets & Treats, and Beverages. It also offers delivery and pickup services through the app.
+
+*   **When was the company founded, and who were the founders?**
+    The text states that in 1954, Ray Kroc discovered a small burger restaurant in California.
+
+*   **Where is the company's headquarters located?**
+    The text does not specify where the company headquarters is located.
+
+*   **Who are the key executives or leadership team members?**
+    The text lists the following key executives:
+
+    *   Chris Kempczinski (McDonald’s President and CEO)
+    *   Joe Erlinger (President, McDonald’s USA)
+    *   Alyssa Buetikofer (Chief Marketing and Customer Experience Officer, McDonald’s USA)
+    *   Tom Dillon (Senior Vice President and Chief Financial Officer, McDonald’s USA)
+    *   Myra Doria (National Field President, McDonald’s USA)
+    *   Michael Gonda (Senior Vice President, Chief Impact Officer of North America, McDonald’s USA)
+    *   Jami Guthrie (Vice President, Strategic Insights and Prioritization, McDonald’s USA)
+    *   Whitney McGinnis (CIO and Senior Vice President, McDonald’s USA)
+    *   Cesar Piña (Senior Vice President and Chief Supply Chain Officer, North America, McDonald’s USA)
+    *   Gino Potesta (Franchise Relations Officer, McDonald's USA)
+    *   Mason Smoot (Senior Vice President and Chief Restaurant Officer, McDonald’s USA)
+    *   Angela Steele (Senior Vice President, General Counsel, McDonald’s USA)
+    *   Tabassum Zalotrawala (Senior Vice President and Chief Development Officer, McDonald's USA)
+
+*   **Has the company received any notable awards or recognitions?**
+    The text does not mention any specific awards or recognitions received by the company.
+
+
